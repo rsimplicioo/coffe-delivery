@@ -1,4 +1,4 @@
-import { styled } from "styled-components";
+import styled from "styled-components";
 import { RegularText, TitleText } from "../Typography";
 
 export const ContainerCoffeeCard = styled.div`
